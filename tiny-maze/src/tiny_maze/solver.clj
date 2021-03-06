@@ -44,7 +44,7 @@
             [abajo true]
             (if derecha-llega
               [derecha true]
-              nil)))))))
+              [nil false])))))))
 
 
 (defn
